@@ -27,6 +27,7 @@ For detect requests, make sure the response names each pattern found with a quot
 1. Are binary contrasts, negative listings, rhetorical setups, and throat-clearing openers removed?
 2. Are faux-insight setups, colon reveals, superficial analysis, fake-strong verbs, synonym cycling, dramatic fragments, and robotic rhythm fixed?
 3. Are importance puffery and weasel attribution replaced with plain facts and named sources, or flagged for the user when no source exists?
+3a. Are copula-avoidance verbs (serves as, stands as, functions as, marks, features, offers, maintains), rather-than framing without a real tradeoff, reflexive rule-of-three lists, and knowledge-cutoff disclaimers cut or replaced with specifics?
 4. Is interpretive metadiscourse removed, including authorial metacommentary, reader guidance, emphasis markers, and redundant glossing?
 5. Are fake-profound kicker lines deleted instead of rewritten into better metaphors?
 6. Are summary-recap endings cut so the piece ends on a concrete point, takeaway, or next action?

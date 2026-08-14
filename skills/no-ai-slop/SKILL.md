@@ -43,7 +43,7 @@ If the goal is unclear, ask what the reader should think, feel, or do after read
 
 ## Words to cut
 
-Banned outright: delve, foster, leverage, utilize, facilitate, empower, streamline, robust, cutting-edge, paradigm shift, game changer, this is huge, this changes everything, tapestry, realm, beacon, multifaceted, meticulous, intricate, paramount, transformative, elevate, embark, supercharge, harness, ever-evolving.
+Banned outright: delve, foster, leverage, utilize, facilitate, empower, streamline, robust, cutting-edge, paradigm shift, game changer, this is huge, this changes everything, tapestry, realm, beacon, multifaceted, meticulous, intricate, paramount, transformative, elevate, embark, supercharge, harness, ever-evolving, boasts, bolstered, garner, garnered, interplay, landscape (as in "the tech landscape"), vibrant, enduring, testament, crucial, indelible.
 
 Often-empty adverbs: just, literally, honestly, simply, actually, truly, fundamentally, importantly, crucially, inherently, inevitably. Cut them when they add nothing. Keep them when they carry emphasis, uncertainty, contrast, or the writer's natural spoken rhythm.
 
@@ -67,7 +67,13 @@ Often-empty phrases: it's worth noting, it's important to note, at the end of th
 
 **Weasel attribution.** "Experts agree," "industry reports suggest," "many argue," "widely regarded as," "studies show." Name the source or cut the claim. If the user has no source, ask instead of inventing one.
 
-**Fake-strong verbs.** Prefer "is" and "has" when they are clearer. "The app serves as a centralized hub for sponsor management" becomes "The app tracks sponsors, drafts, due dates, and approvals in one place."
+**Fake-strong verbs.** Prefer "is" and "has" when they are clearer. Watch for copula-avoidance verbs standing in for a plain "is/are": "serves as," "stands as," "functions as," "marks," "features," "offers," "maintains." "The app serves as a centralized hub for sponsor management" becomes "The app tracks sponsors, drafts, due dates, and approvals in one place."
+
+**Rather-than framing.** "Emphasizing X rather than Y" used as a generic setup instead of a real, evidenced tradeoff. State the actual choice and why it was made, or cut the framing. "The team is prioritizing reliability rather than speed" becomes "The team delayed the launch two weeks to fix the crash rate" (if that's the real tradeoff) or is cut if there's no specific tradeoff to name.
+
+**Rule-of-three padding.** Reflexive three-item lists that sound comprehensive but add nothing: "fast, reliable, and scalable," "clear, concise, and compelling." Cut to the one or two items that are actually true and specific, or replace the list with a concrete detail.
+
+**Knowledge-cutoff and meta disclaimers.** "As of my last update," "I don't have real-time access to," "Based on the information available to me," "It's important to consult a professional." These leak that a model wrote the draft. Cut them; state what's known plainly, or ask the user for current info instead of hedging around its absence.
 
 **Synonym cycling.** If the clear word is right, repeat it. Don't rotate terms for style. "The agent reviews the draft. The assistant scores the piece. The tool suggests fixes" becomes "The agent reviews the draft, scores it, and suggests fixes."
 
